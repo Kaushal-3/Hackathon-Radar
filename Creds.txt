@@ -1,0 +1,9 @@
+SMTP EMAIL : greedy.espada@gmail.com
+SMTP PASSWORD : xvzb rnta wngr hjpq
+HOST : smtp.gmail.com
+
+NAME : Authorization
+VALUE : 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
+
+NAME : x-goog-api-key
+VALUE : AQ.Ab8RN6IBlWFT5GUWn-ST1mgiyk5PC0r7jKJMn24ZL11ITyj2-g
