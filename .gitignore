@@ -1,0 +1,6 @@
+# n8n execution dumps (contain email addresses and page data)
+debug/
+# Secrets never belong in this repo; keep them in n8n credentials
+Creds.txt
+.env
+*.env
